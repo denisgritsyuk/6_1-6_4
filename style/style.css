@@ -7,6 +7,12 @@ li {
     list-style-type: none;
 }
 
+
+.hidden{
+    opacity: 0;
+    visibility: hidden ;
+}
+
 .answers-item label {
     cursor: pointer;
     border: 2px solid #000;
